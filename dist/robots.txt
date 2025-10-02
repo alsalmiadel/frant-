@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://smartstart-ai.net/sitemap.xml
+
+# صفحات مسموحة
+Allow: /
+Allow: /pricing
+Allow: /help
+Allow: /about
+
+# مسارات خاصة
+Disallow: /admin
+Disallow: /dashboard
