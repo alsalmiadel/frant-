@@ -1,0 +1,3 @@
+# This is a placeholder for the Arabic voice sample
+# In production, this would be an actual MP3 file with Arabic greeting
+# For now, the TTS function will generate audio dynamically
